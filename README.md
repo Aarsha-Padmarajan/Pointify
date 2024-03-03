@@ -6,7 +6,7 @@ for Kerala Technological University (KTU) students!
 ## Overview
 
 With Pointify, students can now track and manage their activity points in a completely new way thanks to an innovative web application.
-Gone are the manual calculations and tedious paperworks. With Pointify you can simply upload your certificates, relax, and watch as our sophisticated algorithms handle the laborious work for you.
+Gone are the days of manual calculations and tedious paperworks. With Pointify you can simply upload your certificates, relax, and watch as our sophisticated algorithms handle the laborious work for you.
 
 ## Features
 
