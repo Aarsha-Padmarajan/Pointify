@@ -30,7 +30,7 @@ Getting started with Pointify is quick and easy. Follow these simple steps:
 3. *set the API Key*: import { GoogleGenerativeAI } from "https://esm.run/@google/generative-ai";
 4. *Access Pointify*: Open your web browser and go to http://localhost:3000
 
-# Contributing
+## Contributing
 
 We welcome contributions from the community! If you'd like to contribute to Pointify, please follow these guidelines:
 
