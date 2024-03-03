@@ -48,5 +48,5 @@ Pointify is licensed under the [MIT License](LICENSE). Feel free to use, modify,
 
 - [KTU Activity Point Calculation Guidelines](Rules_For_Assigning_Student_Activity_Points.pdf)
 
-##Video Link
+## Video Link
 -https://www.loom.com/share/66db7ddcaea64ac6a34c4ecc507747a5?sid=fec20749-7841-448c-a0da-c1b901578e88
