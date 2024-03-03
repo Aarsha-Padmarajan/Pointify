@@ -11,7 +11,7 @@ Gone are the days of manual calculations and tedious paperworks. With Pointify y
 ## Features
 
 - *Simplify the Process*: Say goodbye to complex spreadsheets and manual calculations. Pointify automates the entire process, making it a     breeze to calculate activity points.
-- *Smart Certificate Parsing*: Our advanced parsing technology extracts key information from your certificas and ensure accurate point calculations every time.
+- *Smart Certificate Parsing*: Our advanced parsing technology extracts key information from your certificates and ensure accurate point calculations every time.
 - *Beautiful Reports*: Visualize your progress with stunning activity point reports that are as easy on the eyes as they are informative. Download and share them with ease.
 - *User-Friendly Interface*: Our intuitive interface makes it easy for students of all technical levels to navigate Pointify with ease. No technical expertise required!
 
