@@ -25,7 +25,7 @@ Gone are the days of manual calculations and tedious paperworks. With Pointify y
 
 Getting started with Pointify is quick and easy. Follow these simple steps:
 
-1. *Clone the Repository*: git clone https://github.com/yourusername/pointify.git
+1. *Clone the Repository*: git clone https://github.com/Aarsha-Padmarajan/Pointify.git
 2. *Navigate to the Project Directory*: cd pointify
 3. *Set the API Key*: import { GoogleGenerativeAI } from "https://esm.run/@google/generative-ai";
 4. *Access Pointify*: Open your web browser and go to http://localhost:3000
